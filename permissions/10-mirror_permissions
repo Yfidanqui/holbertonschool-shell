@@ -1,2 +1,2 @@
-#!/she/ban
+#!/bin/bash
 chmod --reference=olleh hello
